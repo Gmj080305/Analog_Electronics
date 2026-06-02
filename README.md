@@ -1,5 +1,5 @@
 # Analog Electronics
-
+https://claude.ai/share/f930f54e-f68d-4db9-b336-05cbe83481ff
 Welcome to the Analog Electronic Simulations repository! This repository is dedicated to exploring the practical aspects of analog electronic circuits and Analog VLSI design. It contains a collection of simulations, tutorials, circuits, and the theory related to analog circuits.
 
 ## Motivation
